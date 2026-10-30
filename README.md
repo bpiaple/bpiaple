@@ -1,8 +1,6 @@
 # Brice Piaple Dada
 
-IT technician and developer in Rimouski, Quebec. Computer Science Technology graduate, Cégep de Rimouski (2026).
-
-Looking for a full-time role in software development, system administration or IT support. Open to relocating within Quebec.
+IT technician and developer in Rimouski, Quebec.
 
 ## Skills
 
